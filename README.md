@@ -81,7 +81,18 @@
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
-- 
+- [박가연](https://github.com/gayeonP)
+- [송병준](https://github.com/potados99)
+- [송준영](https://github.com/HamBP)
+- [엄유정](https://github.com/umyujeong)
+- [우정우](https://github.com/chawoojungwoo)
+- [이소현](https://github.com/hyeon12)
+- [임재섭](https://github.com/LimJaeSub)
+- [전지희](https://github.com/GHeeJeon)
+- [최민승](https://github.com/ChoiMinSeung)
+- [최은진](https://github.com/abceunjin)
+- [최진영](https://github.com/cjo70241)
+- [홍정우](https://github.com/martinelli-3535)
 
 </div>
 </details>
