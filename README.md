@@ -89,6 +89,7 @@
 - [이소현](https://github.com/hyeon12)
 - [임재섭](https://github.com/LimJaeSub)
 - [전지희](https://github.com/GHeeJeon)
+- [진유리](https://github.com/yuri295)
 - [최민승](https://github.com/ChoiMinSeung)
 - [최은진](https://github.com/abceunjin)
 - [최진영](https://github.com/cjo70241)
