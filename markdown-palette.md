@@ -193,5 +193,6 @@
 [🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md)
 를 이용해도 ok
 ```
-
-
+</div>
+</details>
+<br/><br/><br/>
