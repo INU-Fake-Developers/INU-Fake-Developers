@@ -182,7 +182,7 @@
 링크도 대괄호 소괄호를 이용하면 깔끔하게 올릴 수 있어요  
 [대괄호]와 (소괄호)가 떨어져있으면 안돼요  
 대괄호에 이모지 ([😎](https://github.com/INU-Fake-Developers/INU-Fake-Developers)
-[🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md))
+[🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/readme-palette.md))
  를 넣고 링크를 만들어도 ok
 
 <details>
