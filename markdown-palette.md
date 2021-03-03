@@ -182,7 +182,16 @@
 [🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md)
 를 이용해도 ok
 
-
-
+<details>
+<summary>🎨 링크 팔레트 열기/접기</summary>
+<div markdown="1">
+```
+[클릭](https://github.com/INU-Fake-Developers/INU-Fake-Developers)하면 이동!  
+링크도 대괄호롸 소괄호를 이용하면 깔끔하게 달 수 있어요  
+[대괄호]와 (소괄호)가 떨어져있으면 안돼요  
+이모지[😎](https://github.com/INU-Fake-Developers/INU-Fake-Developers)
+[🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md)
+를 이용해도 ok
+```
 
 
