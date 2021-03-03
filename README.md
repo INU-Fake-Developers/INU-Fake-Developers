@@ -4,7 +4,7 @@
 
 ## 공지사항
 __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~  
-[readme palette 바로가기 🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md) 
+[readme palette 바로가기 🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/readme-palette.md) 
 
 
 ### 가짜개발자 1기 (2020.12.26. ~ 2021.02.12.)  
@@ -68,7 +68,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |날짜|내용|비고|
 |:---:|:---:|:---:|
 |2021.02.10.|2기 모집 시작||
-|2021.02.25.|[0번째 모임]()|[리드미 팔레트](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md)|
+|2021.02.25.|[0번째 모임]()|[리드미 팔레트](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/readme-palette.md)|
 |2021.|[1번째 모임]()||
 |2021.|[2번째 모임]()||
 |2021.|[3번째 모임]()||
