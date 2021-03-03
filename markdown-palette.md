@@ -145,7 +145,7 @@
 2. `1. `로 줄을 시작하면
 3. 다음 줄에 자동으로 숫자가 매겨져요!
 
-* 숫자 말고 bullet(•) 도 ok
+* 숫자 말고 [bullet](https://ko.wikipedia.org/wiki/%EB%B6%88%EB%A6%BF) 도 ok
 - 세 가지 표현 방법이 있어요
 + 취향에 따라 어느 것을 써도 ok
 ```
