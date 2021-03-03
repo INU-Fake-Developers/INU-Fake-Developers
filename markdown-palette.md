@@ -2,8 +2,8 @@
 ## 소제목 - 팔레트를 열어 물감찍듯 복붙해서 사용하세요!
 ### 샾의 개수만큼
 #### 점점 작아진다
-##### 더더 작아진다
-###### 샾 6개까지만 적용된다.
+##### 샾 입력 후 띄어쓰기, 잊지마세요!
+###### 샾 6개까지만 적용돼요
 
 <details>
 <summary>🎨 샾 팔레트 열기/접기</summary>
@@ -14,7 +14,7 @@
 ## 소제목 - 물감찍듯 복붙해서 사용하세요!
 ### 샾의 개수만큼
 #### 점점 작아진다
-##### 더더 작아진다
+##### 샾 입력 후 띄어쓰기, 잊지마세요!
 ###### 샾 6개까지만 적용된다.
 ```
 </div>
@@ -42,7 +42,7 @@
 </details>
 <br/><br/><br/>
 
-특정 *키워드*를 강조하고 싶다면 이렇게! (기울임)
+## 특정 *키워드*를 강조하고 싶다면 이렇게! (기울임)
 
 특정 **키워드**를 강조하고 싶다면 이렇게! (진하게)
 
@@ -61,7 +61,7 @@
 <div markdown="1"> 
 
 ```
-특정 *키워드*를 강조하고 싶다면 이렇게! (기울임)  
+## 특정 *키워드*를 강조하고 싶다면 이렇게! (기울임)  
 특정 **키워드**를 강조하고 싶다면 이렇게! (진하게)  
 별 대신 밑줄을 써서 __이렇게__!(진하게) 
 특정 ***키워드***를 강조하고 싶다면 이렇게! (기울임+진하게)  
@@ -73,7 +73,7 @@
 </details>
 <br/><br/><br/>
 
-문장의 끝에 띄어쓰기를 두 번 하면  
+## 문장의 끝에 띄어쓰기를 두 번 하면  
 줄바꿈을 할 수 있어요
 
 엔터를 이용해 새 단락에서 시작할 수 있어요
@@ -89,7 +89,7 @@
 <div markdown="1"> 
   
 ```
-문장의 끝에 띄어쓰기를 두 번 하면  
+## 문장의 끝에 띄어쓰기를 두 번 하면  
 줄바꿈을 할 수 있어요
 
 엔터를 이용해 새 단락에서 시작할 수 있어요
@@ -104,8 +104,8 @@
 </details>
 <br/><br/><br/>
 
-> `인용문` 안에서도 __마크다운__ 을 적용할 수 있어요
->	> ## 이중 인용문
+> ## 인용문 안에서도 __마크다운__ 을 적용할 수 있어요
+>	> 이중 인용문
 >	>	> 삼중 인용
 >	> > > 사중도 가능해요
 >	> > > > 5... 6... 그 이상은 잘 안쓰긴 해요
@@ -115,8 +115,8 @@
 <div markdown="1"> 
 	
 ```
-> `인용문` 안에서도 __마크다운__ 을 적용할 수 있어요
->	> ## 이중 인용문
+> ## `인용문` 안에서도 __마크다운__ 을 적용할 수 있어요
+>	> 이중 인용문
 >	>	> 삼중 인용
 >	> > > 사중도 가능해요
 >	> > > > 5... 6... 그 이상은 잘 안쓰긴 해요
@@ -125,11 +125,12 @@
 </details>
 <br/><br/><br/>
 
+## 목록 나열도 어렵지 않아요!
 1. 목록 나열도 ok
-2. `1. `로 줄을 시작하면
-3. 다음 줄에 자동으로 숫자가 매겨져요!
+2. `1. `로 줄을 시작하고 엔터를 누르면
+3. 다음 줄에 자동으로 숫자가 매겨져요
 
-* 숫자 말고 bullet(•) 도 ok
+* 숫자 말고 [bullet](https://ko.wikipedia.org/wiki/%EB%B6%88%EB%A6%BF) 도 ok
 - 세 가지 표현 방법이 있어요
 + 취향에 따라 어느 것을 써도 ok
 
@@ -175,23 +176,23 @@
 </details>
 <br/><br/><br/>
 
-[클릭](https://github.com/INU-Fake-Developers/INU-Fake-Developers)하면 이동!  
-링크도 대괄호롸 소괄호를 이용하면 깔끔하게 달 수 있어요  
+## [클릭](https://github.com/INU-Fake-Developers/INU-Fake-Developers)하면 이동!  
+링크도 대괄호 소괄호를 이용하면 깔끔하게 올릴 수 있어요  
 [대괄호]와 (소괄호)가 떨어져있으면 안돼요  
-이모지[😎](https://github.com/INU-Fake-Developers/INU-Fake-Developers)
-[🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md)
-를 이용해도 ok
+대괄호에 이모지 ([😎](https://github.com/INU-Fake-Developers/INU-Fake-Developers)
+[🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md))
+ 를 넣고 링크를 만들어도 ok
 
 <details>
 <summary>🎨 링크 팔레트 열기/접기</summary>
 <div markdown="1">
 ```
-[클릭](https://github.com/INU-Fake-Developers/INU-Fake-Developers)하면 이동!  
-링크도 대괄호롸 소괄호를 이용하면 깔끔하게 달 수 있어요  
+## [클릭](https://github.com/INU-Fake-Developers/INU-Fake-Developers)하면 이동!  
+링크도 대괄호롸 소괄호를 이용하면 깔끔하게 올릴 수 있어요  
 [대괄호]와 (소괄호)가 떨어져있으면 안돼요  
-이모지[😎](https://github.com/INU-Fake-Developers/INU-Fake-Developers)
-[🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md)
-를 이용해도 ok
+대괄호에 이모지 [😎](https://github.com/INU-Fake-Developers/INU-Fake-Developers)
+[🎨](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/markdown-palette.md))
+ 를 넣고 링크를 만들어도 ok
 ```
 </div>
 </details>
