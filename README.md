@@ -85,6 +85,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
+- [이정환](https://github.com/leejh021023)
 - [박가연](https://github.com/gayeonP)
 - [송병준](https://github.com/potados99)
 - [송준영](https://github.com/HamBP)
