@@ -1,6 +1,12 @@
 # INU-Fake-Developers
 ## 인천대학교 비공식 깃허브/PS 스터디 모임 가짜개발자  
-![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/fake_developers_logo.png "가짜개발자 로고")
+
+_**본 스터디는 정규 동아리나 전공 강의와는 무관한 개인적으로 운영하는 비공식 스터디이며,  
+스터디 신청 및 활동은 의무가 아닌 자유입니다.  
+인천대학교 컴퓨터공학부 공식 커리큘럼 외의 내용을 다룸을 밝힙니다.**_
+
+![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/fake_developers_logo.png "가짜개발자 로고")  
+
 
 ## 공지사항
 __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~  
