@@ -215,7 +215,6 @@
 </details>
 <br/><br/><br/>
 
-
 ## 자세히/간단히 보기도 어렵지 않아요
 
 <details>
@@ -241,10 +240,57 @@
 </div>
 </details>
 ```
-
 </div>
 </details>
 <br/><br/><br/>
-	
-	
 
+## [Back quote](https://ko.wikipedia.org/wiki/%EC%96%B5%EC%9D%8C_%EB%B6%80%ED%98%B8) 세 개 사이에 코드블럭을 만들 수 있어요
+
+~~~
+역따옴표(=백쿼트, grave accent) 대신 물결표 세 개를 써도 돼요
+~~~
+
+```python
+# 물결 뒤에 언어 이름을 붙이면
+print("Hello world!")	# 파이썬
+```
+
+~~~c
+// 해당 언어의 문법에 맞게 글자의 색이 바뀌어요
+#include <stdio.h>	// C언어
+
+int main(){
+	printf("Hello world!");
+	return 0;
+}
+~~~
+
+<details>
+<summary>🎨 코드블럭 팔레트 열기/접기</summary>
+<div markdown="1">
+	
+```
+## [Back quote](https://ko.wikipedia.org/wiki/%EC%96%B5%EC%9D%8C_%EB%B6%80%ED%98%B8) 세 개 사이에 코드블럭을 만들 수 있어요
+
+~~~
+역따옴표(=백쿼트, grave accent) 대신 물결표 세 개를 써도 돼요
+~~~
+
+~~~python
+# 물결 뒤에 언어 이름을 붙이면
+print("Hello world!")	# 파이썬
+~~~
+
+~~~c
+// 해당 언어의 문법에 맞게 글자의 색이 바뀌어요
+#include <stdio.h>	// C언어
+
+int main(){
+	printf("Hello world!");
+	return 0;
+}
+~~~
+```
+</div>
+</details>
+<br/><br/><br/>
