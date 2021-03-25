@@ -26,14 +26,15 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |날짜|내용|비고|
 |:---:|:---:|:---:|
 |2020.11.11.|1기 모집 시작|[1기 홍보글]() & [FAQ]()|
-|2020.12.26.|[0번째 모임]()|[공지사항]()|
-|2021.01.03.|[1번째 모임]()|[공지사항]()|
-|2021.01.10.|[2번째 모임]()|[공지사항]()|
-|2021.01.17.|[3번째 모임]()|[공지사항]()|
-|2021.01.22.|[4번째 모임]()|[공지사항]()|
-|2021.01.29.|[5번째 모임]()|[공지사항]()|
-|2021.02.05.|[6번째 모임]()|[공지사항]()|
-|2021.02.12.|[7번째 모임]()|[공지사항]()|
+|2020.12.26.|[0번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/0%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.01.03.|[1번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/1%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.01.10.|[2번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/2%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.01.17.|[3번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/3%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.01.22.|[4번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/4%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.01.29.|[5번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/5%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.02.05.|[6번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/6%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.02.12.|[7번째 모임]()|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/7%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.02.19.|1기 마무리|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/1%EA%B8%B0%20%EB%A7%88%EB%AC%B4%EB%A6%AC.md)|
    
    </div>
 </details>  
