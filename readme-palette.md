@@ -135,6 +135,7 @@
 * 숫자 말고 [bullet](https://ko.wikipedia.org/wiki/%EB%B6%88%EB%A6%BF) 도 ok
 - 세 가지 표현 방법이 있어요
 + 취향에 따라 어느 것을 써도 ok
+	* 들여쓰면 이렇게 돼요
 
 <details>
 <summary>🎨 목록 팔레트 열기/접기</summary>
@@ -148,6 +149,7 @@
 * 숫자 말고 [bullet](https://ko.wikipedia.org/wiki/%EB%B6%88%EB%A6%BF) 도 ok
 - 세 가지 표현 방법이 있어요
 + 취향에 따라 어느 것을 써도 ok
+	* 들여쓰면 이렇게 돼요
 ```
 </div>
 </details>
