@@ -75,7 +75,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |날짜|내용|비고|
 |:---:|:---:|:---:|
 |2021.02.10.|2기 모집 시작|[2기 홍보글](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/ad-season2/recruit-2.gif) & [FAQ]()|
-|2021.02.25.|[0번째 모임]()|[공지사항](), [리드미 팔레트](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/readme-palette.md "바로가기")|
+|2021.02.25.|0번째 모임|[공지사항](), [리드미 팔레트](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/readme-palette.md "바로가기")|
 |2021.03.05.|번외 스터디|[파이썬 튜토리얼]()|
 |2021.03.06.|1번째 모임|[공지사항]()|
 |2021.03.11.|2번째 모임|[공지사항]()|
