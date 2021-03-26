@@ -25,7 +25,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
    
 |날짜|내용|비고|
 |:---:|:---:|:---:|
-|2020.11.11.|1기 모집 시작|[1기 홍보글]() & [FAQ]()|
+|2020.11.11.|1기 모집 시작|[1기 홍보글](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/ad-season1/recruit-1.gif) & [FAQ]()|
 |2020.12.26.|0번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/0%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2021.01.03.|1번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/1%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2021.01.10.|2번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/2%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
@@ -74,17 +74,17 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
    
 |날짜|내용|비고|
 |:---:|:---:|:---:|
-|2021.02.10.|2기 모집 시작|[2기 홍보글]() & [FAQ]()|
+|2021.02.10.|2기 모집 시작|[2기 홍보글](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/ad-season2/recruit-2.gif) & [FAQ]()|
 |2021.02.25.|[0번째 모임]()|[공지사항](), [리드미 팔레트](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/readme-palette.md "바로가기")|
 |2021.03.05.|번외 스터디|[파이썬 튜토리얼]()|
-|2021.03.06.|[1번째 모임]()|[공지사항]()|
-|2021.03.11.|[2번째 모임]()|[공지사항]()|
-|2021.03.18.|[3번째 모임]()|[공지사항]()|
-|2021.03.25.|[4번째 모임]()|[공지사항]()|
+|2021.03.06.|1번째 모임|[공지사항]()|
+|2021.03.11.|2번째 모임|[공지사항]()|
+|2021.03.18.|3번째 모임|[공지사항]()|
+|2021.03.25.|4번째 모임]()|[공지사항]()|
 |2021.03.26.|번외 스터디|[수박게임 만들기]()|
-|2021.|[5번째 모임]()|[공지사항]()|
-|2021.|[6번째 모임]()|[공지사항]()|
-|2021.|[7번째 모임]()|[공지사항]()| 
+|2021.|5번째 모임()|[공지사항]()|
+|2021.|6번째 모임()|[공지사항]()|
+|2021.|7번째 모임()|[공지사항]()| 
 
    </div>
 </details>  
