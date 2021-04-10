@@ -5,7 +5,7 @@ _**본 스터디는 정규 동아리나 전공 강의와는 무관한 개인적�
 스터디 신청 및 활동은 의무가 아닌 자유입니다.  
 인천대학교 컴퓨터공학부 공식 커리큘럼 외의 내용을 다룸을 밝힙니다.**_
 
-![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/fake_developers_logo.png "가짜개발자 로고")  
+![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/logo_profile.png "가짜개발자 로고")  
 
 
 ## 공지사항
