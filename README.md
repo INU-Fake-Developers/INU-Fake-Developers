@@ -15,7 +15,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 [가짜개발자 FAQ 바로가기 🤔](https://github.com/INU-Fake-Developers/INU-Fake-Developers/issues/6)
 
 
-### 가짜개발자 1기 (2020.12.26. ~ 2021.02.12.)  
+### 가짜개발자 Season 1 (2020.12.26. ~ 2021.02.12.)  
 <details>
 <summary>펼치기 / 접기</summary>
 <div markdown="1">  
@@ -64,7 +64,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 </details>  
 
 
-### 가짜개발자 2기 (2021.02.25. ~ )  
+### 가짜개발자 Season 2 (2021.02.25. ~ )  
 <details>
 <summary>펼치기 / 접기</summary>
 <div markdown="1">  
