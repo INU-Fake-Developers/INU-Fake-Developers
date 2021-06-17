@@ -296,3 +296,24 @@ int main(){
 </div>
 </details>
 <br/><br/><br/>
+
+## 위첨자 & 아래첨자도 쓸 수 있어요
+
+<sup>위첨자는 sup 태그</sup> <sub>아래첨자는 sub태그</sub> 
+<sup>1</sup> 2 <sub>3</sub> <sup>4</sup> 5 <sub>6</sub>
+### 마크다운 안에 넣어 쓸 수 있어요 *<sub>무</sub> 야 <sup>호</sup>*
+
+<details>
+<summary>🎨 위첨자 & 아래첨자 팔레트 열기/접기</summary>
+<div markdown="1">
+	
+```
+## 위첨자 & 아래첨자도 쓸 수 있어요
+
+<sup>위첨자는 sup 태그</sup> <sub>아래첨자는 sub 태그</sub> 
+<sup>1</sup> 2 <sub>3</sub> <sup>4</sup> 5 <sub>6</sub>
+### 마크다운 안에 넣어 쓸 수 있어요 *<sub>무</sub> 야 <sup>호</sup>*
+```
+</div>
+</details>
+<br/><br/><br/>

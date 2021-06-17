@@ -2,7 +2,7 @@
 ## 인천대학교 비공식 깃허브/PS 스터디 모임 가짜개발자  
 
 _**본 스터디는 정규 동아리나 전공 강의와는 무관한 개인적으로 운영하는 비공식 스터디이며,  
-스터디 신청 및 활동은 의무가 아닌 자유입니다.  
+스터디 신청은 자유이나 활동은 의무입니다.  
 인천대학교 컴퓨터공학부 공식 커리큘럼 외의 내용을 다룸을 밝힙니다.**_
 
 ![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/logo_profile.png "가짜개발자 로고")  
@@ -86,7 +86,8 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |2021.03.26.|번외 스터디|[수박게임 만들기](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season2/%EB%B2%88%EC%99%B8%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%88%98%EB%B0%95%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0.md)|
 |2021.04.01.|5번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season2/5%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md), [만우절](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/became_yadon.png "방사능거미에물려 야돈이되어버린회장")|
 |2021.04.08|6번째 모임|공지사항|
-|2021.04.|7번째 모임|공지사항|
+|2021.04.30|7번째 모임|공지사항, [코딩테스트](https://www.acmicpc.net/group/practice/11129)|
+|2021.04.30|시즌 2 마무리|공지사항|
 
    </div>
 </details>  
