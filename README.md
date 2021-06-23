@@ -146,6 +146,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <details>
 <summary>멤버 보기</summary>
 <div markdown="1">  
+   
    - [강용석](https://github.com/Bluedips)
    - [강하영](https://github.com/Hayoung0708)
    - [김기수](https://github.com/gisu1102)
