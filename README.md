@@ -45,18 +45,18 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
-- [박가연](https://github.com/gayeonP)
-- [유지수](https://github.com/ryuspace)
-- [윤세휘](https://github.com/Beatriz-Yun)
-- [이도현](https://github.com/ksmfou98)
-- [이윤주](https://github.com/JOO0331)
-- [이상훈](https://github.com/Leesanghun19)
-- [이소현](https://github.com/hyeon12)
-- [이승규]()
-- [송병준](https://github.com/potados99)
-- [송채원](https://github.com/chawani)
-- [송춘근](https://github.com/similar207)
-- [전지희](https://github.com/GHeeJeon)
+   - [박가연](https://github.com/gayeonP)
+   - [유지수](https://github.com/ryuspace)
+   - [윤세휘](https://github.com/Beatriz-Yun)
+   - [이도현](https://github.com/ksmfou98)
+   - [이윤주](https://github.com/JOO0331)
+   - [이상훈](https://github.com/Leesanghun19)
+   - [이소현](https://github.com/hyeon12)
+   - [이승규]()
+   - [송병준](https://github.com/potados99)
+   - [송채원](https://github.com/chawani)
+   - [송춘근](https://github.com/similar207)
+   - [전지희](https://github.com/GHeeJeon)
 </div>
 </details>
   
@@ -64,7 +64,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 </details>  
 
 
-### 가짜개발자 Season 2 (2021.02.25. ~ )  
+### 가짜개발자 Season 2 (2021.02.25. ~ 2021.04.30.)  
 <details>
 <summary>펼치기 / 접기</summary>
 <div markdown="1">  
@@ -96,23 +96,74 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
-- [이정환](https://github.com/leejh021023)
-- [박가연](https://github.com/gayeonP)
-- [송병준](https://github.com/potados99)
-- [송준영](https://github.com/HamBP)
-- [엄유정](https://github.com/umyujeong)
-- [우정우](https://github.com/chawoojungwoo)
-- [이소현](https://github.com/hyeon12)
-- [임재섭](https://github.com/LimJaeSub)
-- [전지희](https://github.com/GHeeJeon)
-- [진유리](https://github.com/yuri295)
-- [최민승](https://github.com/ChoiMinSeung)
-- [최은진](https://github.com/abceunjin)
-- [최진영](https://github.com/cjo70241)
-- [홍정우](https://github.com/martinelli-3535)
+   - [이정환](https://github.com/leejh021023)
+   - [박가연](https://github.com/gayeonP)
+   - [송병준](https://github.com/potados99)
+   - [송준영](https://github.com/HamBP)
+   - [엄유정](https://github.com/umyujeong)
+   - [우정우](https://github.com/chawoojungwoo)
+   - [이소현](https://github.com/hyeon12)
+   - [임재섭](https://github.com/LimJaeSub)
+   - [전지희](https://github.com/GHeeJeon)
+   - [진유리](https://github.com/yuri295)
+   - [최민승](https://github.com/ChoiMinSeung)
+   - [최은진](https://github.com/abceunjin)
+   - [최진영](https://github.com/cjo70241)
+   - [홍정우](https://github.com/martinelli-3535)
 
 </div>
 </details>
   
    </div>
 </details>  
+
+### 가짜개발자 Season 3 (2021.06.17. ~ )  
+<details>
+<summary>펼치기 / 접기</summary>
+<div markdown="1">  
+<br/>
+
+<details>
+<summary>일정 보기</summary>
+<div markdown="1">  
+   
+|날짜|내용|비고|
+|:---:|:---:|:---:|
+|2021.06.17.|시즌 3 모집 시작|[시즌 3 홍보글]()|
+|2021.06.21.|0번째 모임|[공지사항]()|
+|2021.06.25|1번째 모임|[공지사항]()|
+|2021.|2번째 모임|[공지사항]()|
+|2021.|3번째 모임|[공지사항]()|
+|2021.|4번째 모임|[공지사항]()|
+|2021.|5번째 모임|[공지사항]()|
+|2021.|6번째 모임|[공지사항]()|
+|2021.|7번째 모임|[공지사항]()|
+|2021.|시즌 3 마무리|[공지사항]()|
+   
+   </div>
+</details>  
+
+<details>
+<summary>멤버 보기</summary>
+<div markdown="1">  
+   
+   - [강용석](https://github.com/Bluedips)
+   - [강하영](https://github.com/Hayoung0708)
+   - [김기수](https://github.com/gisu1102)
+   - [박가연](https://github.com/gayeonP)
+   - [송병준](https://github.com/potados99)
+   - [송준영](https://github.com/HamBP)
+   - [신소정](https://github.com/SojeongShin)
+   - [우정우](https://github.com/chawoojungwoo)
+   - [이소현](https://github.com/hyeon12)
+   - [임우진](https://github.com/limwoojine)
+   - [전지희](https://github.com/GHeeJeon)
+   - [진유리](https://github.com/yuri295)
+   - [최민승](https://github.com/ChoiMinSeung)
+
+</div>
+</details>
+  
+   </div>
+</details>  
+
