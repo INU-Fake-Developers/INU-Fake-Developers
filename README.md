@@ -5,7 +5,8 @@ _**본 스터디는 정규 동아리나 전공 강의와는 무관한 개인적�
 스터디 신청은 자유이나 활동은 의무입니다.  
 인천대학교 컴퓨터공학부 공식 커리큘럼과 무관함을 밝힙니다.**_
 
-![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/logo_profile.png "가짜개발자 로고")  
+
+![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/logo/logo_profile.png "가짜개발자 로고")  
 
 
 ## 공지사항
@@ -137,7 +138,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |2021.07.05.|4번째 모임|[공지사항]()|
 |2021.07.09.|5번째 모임|[공지사항]()|
 |2021.07.12.|6번째 모임|[공지사항]()|
-|2021.07.16|7번째 모임|[공지사항]()|
+|2021.07.16|7번째 모임|[공지사항](), [코딩테스트](https://www.acmicpc.net/group/practice/11129)|
 |2021.07.|시즌 3 마무리|[공지사항]()|
    
    </div>
