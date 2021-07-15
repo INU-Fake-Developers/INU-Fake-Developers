@@ -3,7 +3,7 @@
 
 _**본 스터디는 정규 동아리나 전공 강의와는 무관한 개인적으로 운영하는 비공식 스터디이며,  
 스터디 신청은 자유이나 활동은 의무입니다.  
-인천대학교 컴퓨터공학부 공식 커리큘럼과 을 밝힙니다.**_
+인천대학교 컴퓨터공학부 공식 커리큘럼과 무관함을 밝힙니다.**_
 
 ![](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/img/logo_profile.png "가짜개발자 로고")  
 
