@@ -166,5 +166,39 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 </details>
   
    </div>
+</details>
+
+
+
+### 가짜개발자 Season 4 (2020.07.23. ~ )  
+<details>
+<summary>펼치기 / 접기</summary>
+<div markdown="1">  
+<br/>
+
+<details>
+<summary>일정 보기</summary>
+<div markdown="1">  
+   
+|날짜|내용|비고|
+|:---:|:---:|:---:|
+|2021.07.17.|시즌 4 모집 시작|[시즌 4 홍보글](https://github.com/INU-Fake-Developers/INU-Fake-Developers/issues/16)|
+
+   
+   </div>
 </details>  
+
+<details>
+<summary>멤버 보기</summary>
+<div markdown="1">  
+  
+   
+   - [전지희](https://github.com/GHeeJeon)
+</div>
+</details>
+  
+   </div>
+</details>  
+
+
 
