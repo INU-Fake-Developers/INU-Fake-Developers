@@ -53,7 +53,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
    - [이윤주](https://github.com/JOO0331)
    - [이상훈](https://github.com/Leesanghun19)
    - [이소현](https://github.com/hyeon12)
-   - [이승규]()
+   - [이승규](https://github.com/lee-seunggyu)
    - [송병준](https://github.com/potados99)
    - [송채원](https://github.com/chawani)
    - [송춘근](https://github.com/similar207)
