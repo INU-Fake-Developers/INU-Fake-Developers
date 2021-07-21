@@ -199,7 +199,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
-   
+   - []()
    - [전지희](https://github.com/GHeeJeon)
 </div>
 </details>
