@@ -47,16 +47,16 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <div markdown="1">  
   
    - [박가연](https://github.com/gayeonP)
-   - [유지수](https://github.com/ryuspace)
-   - [윤세휘](https://github.com/Beatriz-Yun)
-   - [이도현](https://github.com/ksmfou98)
-   - [이윤주](https://github.com/JOO0331)
-   - [이상훈](https://github.com/Leesanghun19)
-   - [이소현](https://github.com/hyeon12)
-   - [이승규](https://github.com/lee-seunggyu)
    - [송병준](https://github.com/potados99)
    - [송채원](https://github.com/chawani)
    - [송춘근](https://github.com/similar207)
+   - [유지수](https://github.com/ryuspace)
+   - [윤세휘](https://github.com/Beatriz-Yun)
+   - [이도현](https://github.com/ksmfou98)
+   - [이상훈](https://github.com/Leesanghun19)
+   - [이소현](https://github.com/hyeon12)
+   - [이승규](https://github.com/lee-seunggyu)
+   - [이윤주](https://github.com/JOO0331)
    - [전지희](https://github.com/GHeeJeon)
 </div>
 </details>
