@@ -199,7 +199,20 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
-   - []()
+   - [강용석](https://github.com/Bluedips)
+   - [김강석](https://github.com/gangsigi)
+   - [김기수](https://github.com/gisu1102)
+   - [김아영](https://github.com/ayoungt)
+   - [박광재](https://github.com/wrath-sinsa)
+   - [박재현](https://github.com/jae2525)
+   - [박지성](https://github.com/JiseongPark1223)
+   - [신소정](https://github.com/SojeongShin)
+   - [양다헤](https://github.com/daheyang)
+   - [유도현](https://github.com/doehy)
+   - [유희태](https://github.com/1017yu)
+   - [이승규](https://github.com/lee-seunggyu)
+   - [이승현](https://github.com/codefug)
+   - [장희직](https://github.com/jhg3410)
    - [전지희](https://github.com/GHeeJeon)
 </div>
 </details>
