@@ -187,8 +187,8 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |2021.07.26.|1번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season4/1%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2021.07.30.|2번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season4/2%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2021.08.02.|3번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season4/3%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
-|2021.08.06.|4번째 모임|[공지사항]()|
-|2021.08.09.|5번째 모임|[공지사항]()|
+|2021.08.06.|4번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season4/4%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2021.08.09.|5번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season4/5%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2021.08.13.|6번째 모임|[공지사항]()|
 |2021.08.16.|7번째 모임|[공지사항]()|
    
