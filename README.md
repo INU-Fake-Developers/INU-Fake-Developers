@@ -200,21 +200,21 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
-   - [강용석](https://github.com/Bluedips)[🍉](https://mococo-watermelongame.netlify.app)
-   - [김강석](https://github.com/gangsigi)[🍉]()
-   - [김기수](https://github.com/gisu1102)[🍉](https://inu-fake-developers.github.io/gisu1102-WatermelonGame/)
-   - [김아영](https://github.com/ayoungt)[🍉](https://travelsomewhere-watermelon-game.netlify.app/)
-   - [박광재](https://github.com/wrath-sinsa)[🍉](https://watermelon-sinsa.netlify.app/)
+   - [강용석](https://github.com/Bluedips) [🍉](https://mococo-watermelongame.netlify.app)
+   - [김강석](https://github.com/gangsigi)
+   - [김기수](https://github.com/gisu1102) [🍉](https://inu-fake-developers.github.io/gisu1102-WatermelonGame/)
+   - [김아영](https://github.com/ayoungt) [🍉](https://travelsomewhere-watermelon-game.netlify.app/)
+   - [박광재](https://github.com/wrath-sinsa) [🍉](https://watermelon-sinsa.netlify.app/)
    - [박재현](https://github.com/jae2525)
    - [박지성](https://github.com/JiseongPark1223)
-   - [신소정](https://github.com/SojeongShin)[🍉](https://focused-mayer-208843.netlify.app/)
-   - [양다헤](https://github.com/daheyang)[🍉](https://mayonnaise-janakkaena.netlify.app/) 
+   - [신소정](https://github.com/SojeongShin) [🍉](https://focused-mayer-208843.netlify.app/)
+   - [양다헤](https://github.com/daheyang) [🍉](https://mayonnaise-janakkaena.netlify.app/) 
    - [유도현](https://github.com/doehy)
-   - [유희태](https://github.com/1017yu)[🍉](https://kled-watermelon-game.netlify.app/) 
+   - [유희태](https://github.com/1017yu) [🍉](https://kled-watermelon-game.netlify.app/) 
    - [이승규](https://github.com/lee-seunggyu)
    - [이승현](https://github.com/codefug)
-   - [장희직](https://github.com/jhg3410)[🍉](https://watermelon-game-jik.netlify.app)
-   - [전지희](https://github.com/GHeeJeon)[🍉](https://meang-e-game.netlify.app/)
+   - [장희직](https://github.com/jhg3410) [🍉](https://watermelon-game-jik.netlify.app)
+   - [전지희](https://github.com/GHeeJeon) [🍉](https://meang-e-game.netlify.app/)
 </div>
 </details>
   
