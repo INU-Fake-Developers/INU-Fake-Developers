@@ -212,7 +212,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
    - [유도현](https://github.com/doehy)
    - [유희태](https://github.com/1017yu) [🍉](https://kled-watermelon-game.netlify.app/) 
    - [이승규](https://github.com/lee-seunggyu)
-   - [이승현](https://github.com/codefug)
+   - [이승현](https://github.com/codefug) [🍉](https://happygame.netlify.app/)
    - [장희직](https://github.com/jhg3410) [🍉](https://watermelon-game-jik.netlify.app)
    - [전지희](https://github.com/GHeeJeon) [🍉](https://meang-e-game.netlify.app/)
 </div>
