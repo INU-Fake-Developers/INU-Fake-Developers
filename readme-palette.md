@@ -355,5 +355,21 @@ int main(){
 </details>
 <br/><br/><br/>
 	
+## 실드는 어떤가요?
+https://shields.io 에서 실드를 만들 수 있어요  
+
+<details>
+<summary>🎨 실드 팔레트 열기/접기</summary>
+<div markdown="1">
+	
+```
+## 실드는 어떤가요?
+https://shields.io 에서 실드를 만들 수 있어요  
+```
+</div>
+</details>
+<br/><br/><br/>
+
+	
 	
 	
