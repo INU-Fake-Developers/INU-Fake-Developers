@@ -252,14 +252,14 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 <summary>멤버 보기</summary>
 <div markdown="1">  
   
-   - [박건]()
-   - [박가연]()
-   - [이소현]()
-   - [이승현]()
-   - [이용진]()
-   - [전민영]()
+   - [박건](https://github.com/Han-Gigabyte)
+   - [박가연](https://github.com/gayeonP)
+   - [이소현](https://github.com/hyeon12)
+   - [이승현](https://github.com/codefug)
+   - [이용진](https://github.com/yongjin9280)
+   - [전민영](https://github.com/miinyeong)
    - [전지희](https://github.com/GHeeJeon)
-   - [한현승]()
+   - [한현승](https://github.com/82everywin)
 </div>
 </details>
   
