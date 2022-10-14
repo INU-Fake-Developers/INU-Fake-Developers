@@ -237,8 +237,8 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |2022.09.10.|시즌 5 모집 시작|[시즌 5 홍보글](https://github.com/INU-Fake-Developers/INU-Fake-Developers/issues/22)|
 |2022.09.23.|0번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season5/0%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2022.09.30.|1번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season5/1%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
-|2022.10.07.|2번째 모임|[공지사항]()|
-|2022.10.14.|3번째 모임|[공지사항]()|
+|2022.10.07.|2번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season5/2%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
+|2022.10.14.|3번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season5/3%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2022.10.28.|4번째 모임|[공지사항]()|
 |2022.11.04.|5번째 모임|[공지사항]()|
 |2022.11.11.|6번째 모임|[공지사항]()|
