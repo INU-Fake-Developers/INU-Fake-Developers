@@ -37,7 +37,7 @@ __리드미 팔레트__ 가 추가되었습니다! 마음껏 복붙해주세요~
 |2021.01.29.|5번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/5%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2021.02.05.|6번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/6%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
 |2021.02.12.|7번째 모임|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/7%EB%B2%88%EC%A7%B8%20%EB%AA%A8%EC%9E%84.md)|
-|2021.02.19.|시즌 1 마무리|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/1%EA%B8%B0%20%EB%A7%88%EB%AC%B4%EB%A6%AC.md)|
+|2021.02.19.|시즌 1 마무리|[공지사항](https://github.com/INU-Fake-Developers/INU-Fake-Developers/blob/main/notice/season1/%EC%8B%9C%EC%A6%8C1%20%EB%A7%88%EB%AC%B4%EB%A6%AC.md)|
    
    </div>
 </details>  
